@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257427015937",
+    "project_id": "revenueflow-c6f8a",
+    "storage_bucket": "revenueflow-c6f8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257427015937:android:34c3874971c5fba7b57300",
+        "android_client_info": {
+          "package_name": "uz.evolution.revenue_flow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAakIzgedYO7wZ0iCZEtkfwyhQNXQt-bOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

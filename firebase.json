@@ -1,0 +1,41 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "revenueflow-c6f8a",
+          "appId": "1:257427015937:android:34c3874971c5fba7b57300",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "revenueflow-c6f8a",
+          "appId": "1:257427015937:ios:36df84369afcb85fb57300",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "revenueflow-c6f8a",
+          "appId": "1:257427015937:ios:36df84369afcb85fb57300",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "revenueflow-c6f8a",
+          "configurations": {
+            "android": "1:257427015937:android:34c3874971c5fba7b57300",
+            "ios": "1:257427015937:ios:36df84369afcb85fb57300",
+            "macos": "1:257427015937:ios:36df84369afcb85fb57300",
+            "web": "1:257427015937:web:25af3d36f36f1d12b57300",
+            "windows": "1:257427015937:web:656fdd217122d992b57300"
+          }
+        }
+      }
+    }
+  }
+}
